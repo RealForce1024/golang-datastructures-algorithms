@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6ad826c-c97c-4ab3-8be3-5098687896e4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__algorathim_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/closure/test.go" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="algorathim" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/closure/test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="e#14#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/common/common.go" />
+        <option value="$PROJECT_DIR$/common/common_test.go" />
+        <option value="$PROJECT_DIR$/closure/test.go" />
+        <option value="$PROJECT_DIR$/sort/select_sort.go" />
+        <option value="$PROJECT_DIR$/sort/select_sort_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="select_sort.go" />
+              <option name="myItemType" value="com.goide.tree.GoTreeStructureProvider$GoFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorathim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="closure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.Test_FindSmallest in select_sort_test.go">
+    <configuration default="false" name="Test_binary_search in common_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/common" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorathim/common" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Test_binary_search$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run test.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/closure/test.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test_FindSmallest in select_sort_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/sort" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorathim/sort" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Test_FindSmallest$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_binary_search in common_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/common" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="algorathim/common" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Benchmark_binary_search$" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSelectionSort in select_sort_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/sort" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorathim/sort" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestSelectionSort$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <filePath value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <package value="algorathim" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="algorathim" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="algorathim" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorathim" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Go Test.Test_binary_search in common_test.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run test.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Test.Test_FindSmallest in select_sort_test.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Test.Benchmark_binary_search in common_test.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Test.TestSelectionSort in select_sort_test.go" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Test.Test_FindSmallest in select_sort_test.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Test.TestSelectionSort in select_sort_test.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Test.Benchmark_binary_search in common_test.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run test.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Test.Test_binary_search in common_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6ad826c-c97c-4ab3-8be3-5098687896e4" name="Default" comment="" />
+      <created>1503895242852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503895242852</updated>
+      <workItem from="1503895247880" duration="1429000" />
+      <workItem from="1503908437628" duration="2055000" />
+      <workItem from="1503990292119" duration="215000" />
+      <workItem from="1503992807459" duration="1246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 50m 17s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 50m 20s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 52m 07s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 52m 38s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 55m 06s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 55m 20s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 55m 28s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 55m 57s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSelectionSort_in_select_sort_test_go - 2017.08.29 at 15h 57m 14s.xml">
+      <configuration name="TestSelectionSort in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_FindSmallest_in_select_sort_test_go - 2017.08.29 at 16h 13m 16s.xml">
+      <configuration name="Test_FindSmallest in select_sort_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4945000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50730413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/common/common_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closure/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closure/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="666" column="33" lean-forward="true" selection-start-line="666" selection-start-column="33" selection-end-line="666" selection-end-column="33" />
+          <folding>
+            <marker date="1491584021000" expanded="true" signature="0:8007" ph="/.../" />
+            <marker date="1491584021000" expanded="false" signature="8032:8196" ph="..." />
+            <marker date="1491584021000" expanded="true" signature="8202:10704" ph="(...)" />
+            <marker date="1491584021000" expanded="true" signature="8205:8542" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="8624:8901" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="10706:10804" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="10824:11897" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="11971:11989" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="11991:12164" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="12189:12211" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="12285:12304" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="12306:12457" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="12489:13291" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="12575:12807" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="12685:12715" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="12774:12804" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="12813:12843" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13057:13083" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13112:13247" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13125:13220" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13293:13410" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="13478:13667" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13690:13704" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13759:14125" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13789:14115" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13840:13861" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13867:13881" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="13884:13983" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="14237:14282" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="14344:14857" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="14706:14844" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="14902:15459" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="15474:15562" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="15591:15593" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="15685:15703" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="15731:15827" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="15753:15777" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="15922:16178" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="15944:15966" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="16091:16159" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="16262:16318" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="16320:16648" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="16676:17605" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="16690:17566" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="17704:17786" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="17788:18111" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="18154:18186" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="18188:18555" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="18614:18653" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="18747:18790" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="18902:18952" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="19049:19095" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="19210:19263" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="19358:19404" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="19517:19570" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="19572:20003" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="20031:20081" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="20107:20162" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="20245:20302" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="20304:20409" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="20433:21053" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="20452:20509" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="20533:20698" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="21055:21172" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="21198:21229" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="21265:22847" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="21268:21480" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="21495:22763" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="21551:21610" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="21765:21836" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="21853:21898" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="21920:22297" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="21925:21998" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="22145:22168" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="22189:22293" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="22319:22457" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="22324:22430" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="22471:22648" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="22722:22741" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="22849:23136" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="23185:24142" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="23287:23305" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="23313:23512" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="23331:23486" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="23554:23740" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="23684:23689" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="23742:24092" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="24144:24281" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="24306:24742" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="24439:24578" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="24806:24992" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="24828:24990" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25031:25171" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25076:25119" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25205:25377" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25242:25285" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25379:25486" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="25681:25703" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25774:25792" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25863:25865" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="25936:25954" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="26025:26043" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="26045:26503" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="26645:26733" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="26819:26932" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="26934:27153" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="27178:27358" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="27360:27570" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="27686:27795" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="27698:27793" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="27886:28512" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="27956:27975" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28251:28318" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28418:28467" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28535:28858" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28557:28570" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28650:28702" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28720:28856" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28739:28793" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28799:28853" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="28860:28981" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="29077:29226" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29146:29213" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29328:30039" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29372:30021" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29492:29645" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29511:29623" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29670:29971" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29702:29737" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="29741:29937" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="29951:29965" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30097:31310" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30123:30170" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30193:30544" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30259:30322" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30373:30474" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30566:30901" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30631:30694" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30734:30831" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="30952:31005" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31060:31121" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31166:31308" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31365:32643" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31389:31446" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31468:31512" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31535:31875" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31601:31668" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31764:31860" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31926:32235" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="31994:32061" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32122:32220" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32290:32599" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32358:32425" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32486:32584" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32621:32641" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32645:32779" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="32817:33692" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32854:32872" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32903:33573" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="32907:33321" ph="/.../" />
+            <marker date="1491584021000" expanded="true" signature="33342:33570" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="33470:33566" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="33606:33624" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="33779:33941" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="33798:33939" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="33842:33935" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="33994:34034" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34013:34032" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34056:34532" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34111:34411" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34159:34176" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34237:34332" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34369:34408" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34431:34530" ph="{...}" />
+            <marker date="1491584021000" expanded="true" signature="34469:34527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort/select_sort_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <marker date="1503993440000" expanded="true" signature="21:42" ph="..." />
+            <marker date="1503993440000" expanded="true" signature="81:247" ph="{...}" />
+            <marker date="1503993440000" expanded="true" signature="81:483" ph="{...}" />
+            <marker date="1503993440000" expanded="true" signature="99:115" ph="{...}" />
+            <marker date="1503993440000" expanded="true" signature="219:245" ph="{...}" />
+            <marker date="1503993440000" expanded="true" signature="286:483" ph="{...}" />
+            <marker date="1503993440000" expanded="true" signature="301:317" ph="{...}" />
+            <marker date="1503993440000" expanded="true" signature="335:351" ph="{...}" />
+            <marker date="1503993440000" expanded="true" signature="422:442" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort/select_sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1503993845000" expanded="true" signature="21:26" ph="..." />
+            <marker date="1503993845000" expanded="true" signature="61:275" ph="{...}" />
+            <marker date="1503993845000" expanded="true" signature="61:582" ph="{...}" />
+            <marker date="1503993845000" expanded="true" signature="139:213" ph="{...}" />
+            <marker date="1503993845000" expanded="true" signature="164:210" ph="{...}" />
+            <marker date="1503993845000" expanded="true" signature="313:582" ph="{...}" />
+            <marker date="1503993845000" expanded="true" signature="386:563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closure/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

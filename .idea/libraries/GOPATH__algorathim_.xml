@@ -1,0 +1,94 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;algorathim&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../myecho" />
+      <root url="file://$PROJECT_DIR$/../short_url_v2" />
+      <root url="file://$PROJECT_DIR$/../gopcp.v2" />
+      <root url="file://$PROJECT_DIR$/../chatbot" />
+      <root url="file://$PROJECT_DIR$/../GolangTraining" />
+      <root url="file://$PROJECT_DIR$/../FQC_Demos" />
+      <root url="file://$PROJECT_DIR$/../vim-go-tutorial" />
+      <root url="file://$PROJECT_DIR$/../short_url" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../hugo-0.25.1" />
+      <root url="file://$PROJECT_DIR$/../short_url2" />
+      <root url="file://$PROJECT_DIR$/../vendor" />
+      <root url="file://$PROJECT_DIR$/../valet_apns_server" />
+      <root url="file://$PROJECT_DIR$/../tools" />
+      <root url="file://$PROJECT_DIR$/../document" />
+      <root url="file://$PROJECT_DIR$/../myblog" />
+      <root url="file://$PROJECT_DIR$/../multi_data_center" />
+      <root url="file://$PROJECT_DIR$/../extra" />
+      <root url="file://$PROJECT_DIR$/../protodef" />
+      <root url="file://$PROJECT_DIR$/../dbredis" />
+      <root url="file://$PROJECT_DIR$/../rpc" />
+      <root url="file://$PROJECT_DIR$/../user_gift_server" />
+      <root url="file://$PROJECT_DIR$/../protoservice" />
+      <root url="file://$PROJECT_DIR$/../beego_sidepro" />
+      <root url="file://$PROJECT_DIR$/../rpc_tutor" />
+      <root url="file://$PROJECT_DIR$/../golang_note" />
+      <root url="file://$PROJECT_DIR$/../influxdb_queue_server" />
+      <root url="file://$PROJECT_DIR$/../demo" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../freetk" />
+      <root url="file://$PROJECT_DIR$/../git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../proxy_server" />
+      <root url="file://$PROJECT_DIR$/../my" />
+      <root url="file://$PROJECT_DIR$/../hello-ci-cd" />
+      <root url="file://$PROJECT_DIR$/../redisqueue" />
+      <root url="file://$PROJECT_DIR$/../librdkafka" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../pop_server" />
+      <root url="file://$PROJECT_DIR$/../examples" />
+      <root url="file://$PROJECT_DIR$/../rank_section_server" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../myecho" />
+      <root url="file://$PROJECT_DIR$/../short_url_v2" />
+      <root url="file://$PROJECT_DIR$/../gopcp.v2" />
+      <root url="file://$PROJECT_DIR$/../chatbot" />
+      <root url="file://$PROJECT_DIR$/../GolangTraining" />
+      <root url="file://$PROJECT_DIR$/../FQC_Demos" />
+      <root url="file://$PROJECT_DIR$/../vim-go-tutorial" />
+      <root url="file://$PROJECT_DIR$/../short_url" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../hugo-0.25.1" />
+      <root url="file://$PROJECT_DIR$/../short_url2" />
+      <root url="file://$PROJECT_DIR$/../vendor" />
+      <root url="file://$PROJECT_DIR$/../valet_apns_server" />
+      <root url="file://$PROJECT_DIR$/../tools" />
+      <root url="file://$PROJECT_DIR$/../document" />
+      <root url="file://$PROJECT_DIR$/../myblog" />
+      <root url="file://$PROJECT_DIR$/../multi_data_center" />
+      <root url="file://$PROJECT_DIR$/../extra" />
+      <root url="file://$PROJECT_DIR$/../protodef" />
+      <root url="file://$PROJECT_DIR$/../dbredis" />
+      <root url="file://$PROJECT_DIR$/../rpc" />
+      <root url="file://$PROJECT_DIR$/../user_gift_server" />
+      <root url="file://$PROJECT_DIR$/../protoservice" />
+      <root url="file://$PROJECT_DIR$/../beego_sidepro" />
+      <root url="file://$PROJECT_DIR$/../rpc_tutor" />
+      <root url="file://$PROJECT_DIR$/../golang_note" />
+      <root url="file://$PROJECT_DIR$/../influxdb_queue_server" />
+      <root url="file://$PROJECT_DIR$/../demo" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../freetk" />
+      <root url="file://$PROJECT_DIR$/../git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../proxy_server" />
+      <root url="file://$PROJECT_DIR$/../my" />
+      <root url="file://$PROJECT_DIR$/../hello-ci-cd" />
+      <root url="file://$PROJECT_DIR$/../redisqueue" />
+      <root url="file://$PROJECT_DIR$/../librdkafka" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../pop_server" />
+      <root url="file://$PROJECT_DIR$/../examples" />
+      <root url="file://$PROJECT_DIR$/../rank_section_server" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
