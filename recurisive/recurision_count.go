@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(sum_elem([]int{1, 2, 3, 4, 5,8}))
-	fmt.Println(recurisive_count([]int{1, 2, 3, 4, 5,8}))
+	fmt.Println(sum_elem([]int{1, 2, 3, 4, 5, 8}))
+	fmt.Println(recurisive_count([]int{1, 2, 3, 4, 5, 8}))
 }
 
 func recurisive_count(arr []int) int {
