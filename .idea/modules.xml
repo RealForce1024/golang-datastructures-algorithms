@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/algorathim.iml" filepath="$PROJECT_DIR$/.idea/algorathim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/golang-datastructures-algorithms.iml" filepath="$PROJECT_DIR$/.idea/golang-datastructures-algorithms.iml" />
     </modules>
   </component>
 </project>
