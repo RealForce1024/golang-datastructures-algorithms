@@ -34,14 +34,18 @@ func (list *SeqList) addElem(i int, e ElementType) { //注意传递指针
 	if i < 1 || i > list.length+1 {
 		panic("要添加的元素不在已有位置的位置内")
 	}
-
-	// for k := list.length - 1; k >= i-1; k-- { // 从末尾开始交换
-	// 	list.data[k+1] = list.data[k]
-	// }
-
-	for k := i; k <= list.length-1; k++ { //从给定位置开始交换
-		list.data[k+1] = list.data[k]
+	if i <= list.length {
+		for k := list.length - 1; k >= i-1; k-- { // 从末尾开始，逐个向后移动!
+			list.data[k+1] = list.data[k]
+		}
 	}
+
+	// 下面的思路方向错误，因为会覆盖
+	// if i <= list.length {
+	// 	for k := i - 1; k <= list.length; k++ { //从给定位置向后移动
+	// 		list.data[k+1] = list.data[k]
+	// 	}
+	// }
 
 	list.data[i-1] = e
 	list.length++
@@ -52,30 +56,35 @@ func (list *SeqList) removeElem(i int) {
 		panic("要删除的元素不在已有位置")
 	}
 
-	for k := i; k <= list.length; k++ { //从给定的位置向前移动
-		// list.data[k] = list.data[k+1]
-		list.data[k-1] = list.data[k]
+	if i < list.length {
+		for k := i; k <= list.length; k++ { //从给定的位置向前移动
+			list.data[k-1] = list.data[k]
+		}
 	}
 
 	list.length--
+
 }
 
 func main() {
 	var arr [MAXSIZE]ElementType
-	// var arr = [MAXSIZE]ElementType{}
-	// var arr [MAXSIZE]ElementType
 	var sqList = SeqList{data: arr}
 	fmt.Println(sqList)
-	// sqList.addElem(2, 33)
+	// sqList.addElem(2, 33) // 需要先从第一个位置开始，当然可以再智能些。
 	sqList.addElem(1, 11)
 	sqList.addElem(2, 22)
+	sqList.addElem(3, 33)
 	fmt.Println(sqList.length)
 	fmt.Println(sqList)
 	fmt.Println(sqList.getElem(2))
 
 	sqList.addElem(2, 222)
 	fmt.Println(sqList)
+	sqList.addElem(3, 333)
+	fmt.Println(sqList)
 
 	sqList.removeElem(2)
+	sqList.removeElem(1)
+	// sqList.removeElem(3)
 	fmt.Println(sqList)
 }
