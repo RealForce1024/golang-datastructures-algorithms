@@ -43,16 +43,19 @@ func (list *SeqList) addElem(i int, e ElementType) { //注意传递指针
 	list.length++
 }
 func main() {
-	var arr = [MAXSIZE]ElementType{1, 2, 3}
+	var arr [MAXSIZE]ElementType
 	// var arr = [MAXSIZE]ElementType{}
 	// var arr [MAXSIZE]ElementType
 	var sqList = SeqList{data: arr}
-
+	fmt.Println(sqList)
 	// sqList.addElem(2, 33)
 	sqList.addElem(1, 11)
 	sqList.addElem(2, 22)
 	fmt.Println(sqList.length)
 	fmt.Println(sqList)
 	fmt.Println(sqList.getElem(2))
+
+	sqList.addElem(2, 222)
+	fmt.Println(sqList)
 
 }
