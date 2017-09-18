@@ -14,15 +14,20 @@ type SeqList struct {
 }
 
 func (list SeqList) getElem(i int) (ElementType, error) {
-	if i < 0 && i > MAXSIZE {
-		panic("参数有误，请传递正确范围0-MaxSize")
+	if len(list.data) == 0 {
+		panic("顺序表数组为空,请添加元素后再进行获取指定位置的元素")
+	}
+
+	if i < 1 || i > MAXSIZE {
+		panic("参数有误，请传递正确范围1-MaxSize")
 	}
 
 	return list.data[i-1], nil
 }
 
 func main() {
-	var arr = [MAXSIZE]ElementType{1, 2, 3}
+	// var arr = [MAXSIZE]ElementType{1, 2, 3}
+	var arr = [MAXSIZE]ElementType{}
 	var sqList = SeqList{data: arr, length: 10}
 	fmt.Println(sqList)
 
