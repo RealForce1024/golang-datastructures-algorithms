@@ -12,6 +12,7 @@ type SeqList struct {
 }
 
 func main() {
-	var sqList = SeqList{length: 10}
+	var arr = [MAXSIZE]ElementType{1, 2, 3}
+	var sqList = SeqList{data: arr, length: 10}
 	fmt.Println(sqList)
 }
