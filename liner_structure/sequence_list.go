@@ -31,17 +31,35 @@ func (list *SeqList) addElem(i int, e ElementType) { //注意传递指针
 	}
 
 	// if i < 1 || i > MAXSIZE { //注意:实际的长度与容量，添加元素看实际的长度
-	if i < 1 || i > list.length+1 { //
+	if i < 1 || i > list.length+1 {
 		panic("要添加的元素不在已有位置的位置内")
 	}
 
-	for k := list.length - 1; k >= i-1; k-- {
+	// for k := list.length - 1; k >= i-1; k-- { // 从末尾开始交换
+	// 	list.data[k+1] = list.data[k]
+	// }
+
+	for k := i; k <= list.length-1; k++ { //从给定位置开始交换
 		list.data[k+1] = list.data[k]
 	}
 
 	list.data[i-1] = e
 	list.length++
 }
+
+func (list *SeqList) removeElem(i int) {
+	if i < 0 || i > list.length {
+		panic("要删除的元素不在已有位置")
+	}
+
+	for k := i; k <= list.length; k++ { //从给定的位置向前移动
+		// list.data[k] = list.data[k+1]
+		list.data[k-1] = list.data[k]
+	}
+
+	list.length--
+}
+
 func main() {
 	var arr [MAXSIZE]ElementType
 	// var arr = [MAXSIZE]ElementType{}
@@ -58,4 +76,6 @@ func main() {
 	sqList.addElem(2, 222)
 	fmt.Println(sqList)
 
+	sqList.removeElem(2)
+	fmt.Println(sqList)
 }
