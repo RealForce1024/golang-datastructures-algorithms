@@ -22,7 +22,7 @@ func (head *SinglyLinkListNode) reverse_recurise() *SinglyLinkListNode {
 	if head == nil || head.next == nil {
 		return head
 	}
-
+	// 思路: 只关心第一个和第二个(递归调用产生的节点)的关系，递归后重建second节点与旧的head的节点关系
 	second := head.next
 	new_head := second.reverse_recurise()
 
@@ -33,21 +33,15 @@ func (head *SinglyLinkListNode) reverse_recurise() *SinglyLinkListNode {
 
 func (l *SinglyLinkListNode) reverse() *SinglyLinkListNode {
 	curr := l
-	// 用于记录当前结点的前驱结点
-	// 前驱结点开始为nil，因为是反转后的最后一个结点的下一个结点，即nil
 	var prew *SinglyLinkListNode
 	for curr != nil {
-		// 记录当前节点的下一节点
-		next := curr.next
-		// 将当前节点的下一节点指向前驱节点。也就是将当前节点插入到了反转链表的头部
+		pnext := curr.next
 		curr.next = prew
-		if next == nil {
+		if pnext == nil {
 			break
 		}
-		// 记录当前节点为前驱节点
 		prew = curr
-		// 当前节点移动到下一个节点
-		curr = next
+		curr = pnext
 	}
 	return curr
 }
